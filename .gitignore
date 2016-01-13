@@ -1,3 +1,13 @@
+
+# Created by https://www.gitignore.io/api/code,c++
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+
+
+### C++ ###
 # Compiled Object files
 *.slo
 *.lo
