@@ -7,7 +7,6 @@ Cell[BoxData[
     RowBox[{"{", 
      RowBox[{"\"\<FileOutlineCache\>\"", "\[Rule]", "False"}], "}"}]}], ",", 
    RowBox[{"TrackCellChangeTimes", "\[Rule]", "False"}]}], "]"}]], "Input",
- CellChangeTimes->{},
  TrackCellChangeTimes->False],
 
 Cell[BoxData[{
@@ -44,7 +43,6 @@ Cell[BoxData[{
   RowBox[{"Needs", "[", "\"\<HypothesisTesting`\>\"", "]"}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{"MeanCI", "[", "sizeEstimates", "]"}]}], "Input",
- CellChangeTimes->{},
  TrackCellChangeTimes->False],
 
 Cell[BoxData[{
@@ -86,7 +84,6 @@ Cell[BoxData[{
        RowBox[{"Re", "[", "#", "]"}], ",", 
        RowBox[{"Im", "[", "#", "]"}]}], "}"}], "&"}], "/@", "ins"}], ",", 
    RowBox[{"PlotStyle", "\[Rule]", "Blue"}]}], "]"}]}], "Input",
- CellChangeTimes->{},
  TrackCellChangeTimes->False]
 },
 WindowSize->{808, 642},
@@ -97,3 +94,4 @@ FrontEndVersion->"10.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (July 29, \
 StyleDefinitions->"Default.nb",
 $CellContext`TrackCellChangeTimes -> False
 ]
+
